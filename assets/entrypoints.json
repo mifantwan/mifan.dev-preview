@@ -1,0 +1,40 @@
+{
+  "entrypoints": {
+    "local-preloader": {
+      "js": [
+        "/assets/runtime.js",
+        "/assets/local-preloader.js"
+      ],
+      "css": [
+        "/assets/local-preloader.css"
+      ]
+    },
+    "local-framework": {
+      "js": [
+        "/assets/runtime.js",
+        "/assets/local-framework.js"
+      ],
+      "css": [
+        "/assets/local-framework.css"
+      ]
+    },
+    "local-apps": {
+      "js": [
+        "/assets/runtime.js",
+        "/assets/local-apps.js"
+      ],
+      "css": [
+        "/assets/local-apps.css"
+      ]
+    },
+    "local-library": {
+      "js": [
+        "/assets/runtime.js",
+        "/assets/local-library.js"
+      ],
+      "css": [
+        "/assets/local-library.css"
+      ]
+    }
+  }
+}

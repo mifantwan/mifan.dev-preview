@@ -1,0 +1,21 @@
+{
+  "assets/local-preloader.css": "/assets/local-preloader.css",
+  "assets/local-preloader.js": "/assets/local-preloader.js",
+  "assets/local-framework.css": "/assets/local-framework.css",
+  "assets/local-framework.js": "/assets/local-framework.js",
+  "assets/local-apps.css": "/assets/local-apps.css",
+  "assets/local-apps.js": "/assets/local-apps.js",
+  "assets/local-library.css": "/assets/local-library.css",
+  "assets/local-library.js": "/assets/local-library.js",
+  "assets/runtime.js": "/assets/runtime.js",
+  "assets/images/MifanBold.svg": "/assets/images/MifanBold.dda88741.svg",
+  "assets/images/MifanRegular.svg": "/assets/images/MifanRegular.5243bdbc.svg",
+  "assets/fonts/MifanBold.eot": "/assets/fonts/MifanBold.eot",
+  "assets/fonts/MifanBold.ttf": "/assets/fonts/MifanBold.ttf",
+  "assets/fonts/MifanRegular.eot": "/assets/fonts/MifanRegular.eot",
+  "assets/fonts/MifanRegular.ttf": "/assets/fonts/MifanRegular.ttf",
+  "assets/fonts/MifanBold.woff": "/assets/fonts/MifanBold.woff",
+  "assets/fonts/MifanRegular.woff": "/assets/fonts/MifanRegular.woff",
+  "assets/fonts/MifanBold.woff2": "/assets/fonts/MifanBold.woff2",
+  "assets/fonts/MifanRegular.woff2": "/assets/fonts/MifanRegular.woff2"
+}
